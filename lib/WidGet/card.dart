@@ -17,7 +17,7 @@ class card extends StatelessWidget {
               alignment: Alignment.bottomCenter,
               children: [
                 Container(
-                  height: MediaQuery.of(context).size.height/4.5,
+                  height: MediaQuery.of(context).size.height/5.05,
                     width: double.infinity,
                     child: ClipRRect(
                       borderRadius: BorderRadius.all(Radius.circular(40)),
